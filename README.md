@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/LoenardoDaCode">
   <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=21&duration=3200&pause=1000&color=D4AF37&center=true&vCenter=true&width=680&lines=Python+Backend+Developer+%C2%B7+FastAPI+%26+Django;Full-Stack+Craftsman+%C2%B7+React+%26+Next.js;Builder+of+Automations+(Telegram+Bots)+%26+Scraping+Engines;5%2B+Years+in+the+Workshop" alt="Typing SVG" />
 </a>
 
@@ -106,12 +106,11 @@ status: Open to new commissions 🕊️
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-1B140E?style=for-the-badge&logo=gmail&logoColor=D4AF37)](mailto:dmytrotyaka@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1B140E?style=for-the-badge&logo=linkedin&logoColor=D4AF37)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Telegram](https://img.shields.io/badge/Telegram-1B140E?style=for-the-badge&logo=telegram&logoColor=D4AF37)](https://t.me/YOUR_TELEGRAM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1B140E?style=for-the-badge&logo=linkedin&logoColor=D4AF37)](https://linkedin.com/in/dmytro-tiaka-3d953b43b33/)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=D4AF37&style=for-the-badge&label=VISITORS&labelColor=1B140E)
+![Profile Views](https://komarev.com/ghpvc/?username=LeonardoDaCode&color=D4AF37&style=for-the-badge&label=VISITORS&labelColor=1B140E)
 
 </div>
 
