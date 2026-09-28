@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1B140E,50:3E2A18,100:1B140E&height=230&section=header&text=Dmytro%20Tiaka&fontSize=54&fontColor=D4AF37&fontAlignY=36&desc=Engineer%20of%20Code%20%C2%B7%20Automatons%20%C2%B7%20Full-Stack%20Workshop&descAlignY=58&descSize=17&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1B140E,50:3E2A18,100:1B140E&height=230&section=header&text=Dmytro%20Tiaka&fontSize=54&fontColor=D4AF37&fontAlignY=36&desc=Engineer%20of%20Code%20%C2%B7%20Automations%20%C2%B7%20Full-Stack%20Workshop&descAlignY=58&descSize=17&descAlign=50" width="100%"/>
 
-<img src="assets/vitruvian.svg" width="140" />
+<img src="vitruvian.svg" width="140" />
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/YOUR_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=21&duration=3200&pause=1000&color=D4AF37&center=true&vCenter=true&width=680&lines=Python+Backend+Developer+%C2%B7+FastAPI+%26+Django;Full-Stack+Craftsman+%C2%B7+React+%26+Next.js;Builder+of+Automatons+(Telegram+Bots)+%26+Scraping+Engines;5%2B+Years+in+the+Workshop" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=21&duration=3200&pause=1000&color=D4AF37&center=true&vCenter=true&width=680&lines=Python+Backend+Developer+%C2%B7+FastAPI+%26+Django;Full-Stack+Craftsman+%C2%B7+React+%26+Next.js;Builder+of+Automations+(Telegram+Bots)+%26+Scraping+Engines;5%2B+Years+in+the+Workshop" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -37,7 +37,7 @@ experience: 5+ years
 discipline:
   - Building APIs, automation systems & data pipelines — FastAPI / Django
   - Full-stack works — React, Next.js & TypeScript
-  - Conversational automatons (Telegram bots) & data-gathering engines (scraping)
+  - Conversational automations (Telegram bots) & data-gathering engines (scraping)
 workshop: Lviv, Ukraine
 status: Open to new commissions 🕊️
 ```
@@ -57,7 +57,7 @@ status: Open to new commissions 🕊️
 ![Redis](https://img.shields.io/badge/Redis-1B140E?style=flat-square&logo=redis&logoColor=D4AF37)
 <br/><br/>
 
-**Automatons & Raw Materials**
+**Automations & Raw Materials**
 
 ![Scrapy](https://img.shields.io/badge/Scrapy-1B140E?style=flat-square&logo=scrapy&logoColor=D4AF37)
 ![Playwright](https://img.shields.io/badge/Playwright-1B140E?style=flat-square&logo=playwright&logoColor=D4AF37)
